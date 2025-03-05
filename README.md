@@ -32,8 +32,7 @@ Over the period from 2012 to 2023, the majority of European countries have exper
 
 As shown in the graph below, which was created using Tableau, all countries in the dataset have seen upward trends in their minimum wage levels over the years. While the rates of increase have varied significantly by country, the general trend is clear: wages have been rising across Europe in response to economic and political pressures.
 
-
-
+![min_wage_trend](https://github.com/juliamartin0/minimum-wage-impact/blob/main/wages%202012-2023.twb)
 
 This graph provides a visual representation of the year-over-year growth in minimum wage rates for several European countries from 2012 to 2023, illustrating the regional differences and the pace of wage growth in each nation. This historical trend sets the stage for the analysis in this project, which investigates whether these wage increases have successfully improved the purchasing power parity (PPP) for workers in different countries.
 
