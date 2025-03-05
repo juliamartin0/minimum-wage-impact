@@ -63,6 +63,7 @@ In general:
 - If **wages increase at a higher rate than HICP**, workers are more likely to maintain or improve their purchasing power. This can happen in two ways:
 
     i. Wage growth is significantly higher than inflation → This directly increases purchasing power. This is the case of Germany. As we can see in the graphs, the wage increase in 2023 was 18%, while the increase in HICP was 6%. Even though the inflation of essential goods was overall really high, the fact that wages increased so much in 2023 allowed German workers to keep a good purchasing power that year.
+  
   ![germany](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20germany.png)
 
     ii. Even if HICP is high, essential goods inflation remains low → Since basic necessities take up a large portion of workers' expenses, keeping their essential goods inflation lower prevents a major loss in purchasing power. This is the case for countries like Spain or the Netherlands. If wage increases do not sufficiently outpace inflation, or if inflation in essential goods is high, workers are more likely to lose purchasing power.
