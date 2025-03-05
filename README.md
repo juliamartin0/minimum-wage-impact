@@ -1,4 +1,4 @@
-# The Economic Impacts of Minimum Wage Incrreases in Europe
+# The Economic Impacts of Minimum Wage Increases in Europe
 
 ## Project Overview
 The relationship between minimum wage increases and economic indicators like inflation, unemployment, and purchasing power parity (PPP) has been a long-standing debate among policymakers, economists, and labor advocates. In recent years, several European countries have implemented significant changes to their minimum wage policies, making it a timely issue to explore.
