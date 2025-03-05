@@ -38,6 +38,8 @@ Now that we know the wage trend has been positive and growing, let's explore whe
 
 In the graph below, we show the relationship between each country's PPP index and its minimum wage adjusted for PPP. Some interesting insights emerge. For example, having the highest nominal minimum wage doesn’t necessarily mean having the highest purchasing power. Ireland is a good example of this. Although it has one of the highest nominal minimum wages, it also has the highest PPP index (meaning the cost of living is also very high). As a result, its minimum wage adjusted for PPP is lower than that of other high-income countries.
 
+![ppp_index](https://github.com/juliamartin0/minimum-wage-impact/blob/main/ppp%20index.png)
+
 This creates a gap between minimum wage and the cost of living, leaving Irish workers with less real purchasing power compared to workers in countries like Spain or Poland. Despite these countries having much lower nominal wages, their minimum wage increases have outpaced the growth of their PPP index, giving their workers a stronger minimum wage relative to other countries.
 
 In contrast, some countries like Luxembourg show a more consistent relationship between the PPP index and increases in the minimum wage.
