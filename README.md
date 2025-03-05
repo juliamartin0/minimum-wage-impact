@@ -17,6 +17,16 @@ The findings presented in this analysis are especially relevant for governments 
 
 ## Data Sources
 
+The data for this analysis was collected from Eurostat, the official statistical office of the European Union. The dataset includes multiple economic indicators:
+
+- Minimum Wage Levels (nominal and adjusted for PPP) (https://ec.europa.eu/eurostat/databrowser/view/earn_mw_cur/default/table?lang=en)
+- Harmonized Index of Consumer Prices (HICP) (https://ec.europa.eu/eurostat/databrowser/view/prc_hicp_manr__custom_15661910/default/table?lang=en)
+- Inflation of Essential Goods (HICP link filtered by good)
+- PPP Index (https://ec.europa.eu/eurostat/databrowser/view/prc_ppp_ind/default/table?lang=en)
+- Total Population Unemployed (ages 20-64) (https://ec.europa.eu/eurostat/databrowser/view/une_rt_a__custom_15661932/default/table?lang=en)
+- Expenditure of GDP on Unemployment (https://ec.europa.eu/eurostat/databrowser/view/spr_exp_func__custom_15662006/default/table?lang=en&page=time:2023)
+
+Data was cleaned, formatted, and structured to ensure compatibility with Tableau for visualization. 
 
 ## Key Findings
 
