@@ -54,12 +54,12 @@ After analyzing this graph, we can conclude that **an increase in the nominal mi
 
 In analyzing the relationship between minimum wage increases and inflation across various European countries, we can gain valuable insights into how changes in wages impact workers' real purchasing power. While nominal wage increases are important, the real effect on workers' living standards largely depends on how those wage changes compare to inflation. More specifically, inflation can be broken down into harmonized inflation (HICP), which reflects the overall price changes in a country, and inflation in essential goods (such as food, energy, and housing), which directly affects workers' daily living costs.
 
-The graph below compares the percentage changes in minimum wage and inflation across different countries. By analyzing this relationship, we can see whether wage increases are keeping up with or outpacing inflation and how that affects workers’ real purchasing power. 
+The graphs below compare the percentage changes in minimum wage and inflation across different countries. By analyzing this relationship, we can see whether wage increases are keeping up with or outpacing inflation and how that affects workers’ real purchasing power. 
 
-
-
-
-
+![spain](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20spain.png)
+![germany](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20germany.png)
+![ireland](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20ireland.png)
+![belgium](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20belgium.png)
 
 From our analysis, we can conclude that the relationship between minimum wage increases and inflation plays a crucial role in shaping workers’ real purchasing power. While increasing nominal wages is a key mechanism to support workers' income, its real impact depends on how those increases compare to inflation—both overall inflation (Harmonized Index of Consumer Prices, HICP) and the inflation of essential goods (such as food, energy, and rent).
 
