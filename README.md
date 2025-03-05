@@ -9,7 +9,7 @@ This project combines time series analysis with visualizations in Tableau to exa
 
 - What trends have minimum wages followed in Europe over the past 14 years, and how have they varied across countries?
 - How does the minimum wage relate to the PPP index in different countries, and how does this affect workers' real purchasing power?
-- 
+- How does the relationship between minimum wage increases and inflation impact purchasing power   in different countries?
 - Does an increase in minimum wage lead to higher unemployment rates due to the increased cost of hiring for businesses?
 
 
@@ -70,7 +70,7 @@ In general:
 
 ![spain](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20spain.png)
 
-- If **HICP rises faster than wages**, then workers' real incomes shrink, reducing their ability to afford goods and services. Even if wages increase, if the cost of essentials like food, rent, and energy rises sharply, real purchasing power may decline because a larger share of income is spent on necessities. Countries like Ireland and Portugal saw rising inflation in essential goods, and even though wages increased, they were not enough to fully offset these higher costs, leading to a loss in purchasing power.
+- If **wage increases do not sufficiently outpace HICP**, and at the same time, **essential goods inflation (food, rent, energy) rises even higher than HICP**, workers' real incomes shrink, reducing their ability to afford goods and services. Even with nominal wage increases, the rising cost of essentials forces workers to spend a larger share of their income on necessities, effectively weakening their purchasing power. Countries like Ireland experienced this scenario. While wages did increase (7,6%), they were not enough to fully offset rising essential goods costs, leading to a decline in real purchasing power for workers.
 
 ![ireland](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20ireland.png)
 
@@ -86,41 +86,6 @@ Belgium is one of these exceptions. In 2023 it presented 2,3% of HICP while wage
 
 ![belgium](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20belgium.png)
 
-
-
-
-
-
-
-In countries like Spain and the Netherlands, wage increases have largely kept pace with inflation, helping maintain or even improve purchasing power for workers. Conversely, in countries like Germany and Portugal, despite experiencing high inflation, the outcomes differ. Germany's substantial wage increase in 2023 (18.4%) effectively protected its workers’ purchasing power, whereas Portugal's lower wage increase (7.8%) was insufficient to offset the rising costs, leading to a decrease in workers' real purchasing power. The following graphs illustrate these dynamics in Spain, the Netherlands, Germany, and Portugal, highlighting how different inflation and wage growth patterns impact purchasing power across Europe.
-
-
-
-The graph below compares the percentage changes in minimum wage and inflation across different countries. By analyzing this relationship, we can see whether wage increases are keeping up with or outpacing inflation, and how that affects workers’ real purchasing power. 
-
-Inflation Categories:
-
-Ireland saw high inflation in gas (41.9%), electricity (29.5%), and food (9.8%), with overall HICP inflation at 5.2%. This means that essential goods like energy (gas, electricity) and food became much more expensive in Ireland in 2023.
-Spain, on the other hand, saw deflation in gas (-10%) and electricity (-34.8%), which significantly reduced the cost of these essential services. Although food inflation was higher at 11.7%, overall HICP inflation in Spain was lower (3.4%), meaning general prices were rising at a slower pace than in Ireland.
-
-Energy Costs:
-
-A significant difference is in the energy prices. Gas and electricity prices in Ireland surged by more than 40%, while in Spain, these prices actually decreased significantly (gas -10%, electricity -34.8%).
-This means that Irish workers are facing much higher energy costs, which are a significant portion of household expenses. For example, a household that spends a significant portion of its budget on gas and electricity will be severely impacted by these price increases. Even with a higher wage increase, the cost of living in Ireland, particularly in energy, increases much more dramatically.
-
-Wage Growth vs Inflation:
-
-Ireland experienced a 7.6% nominal wage increase, which was higher than its inflation rate (5.2%), suggesting that nominal wages did grow in real terms. However, this growth was largely offset by the sharp increase in energy costs, which represent an important portion of household expenses. Wages were not rising fast enough to keep up with these sharp price hikes in essential services like gas and electricity.
-Spain, with a 5.8% wage increase, had lower inflation overall (3.4%) and also benefited from deflation in energy prices. While food prices rose (11.7%), the lower energy costs in Spain (deflation in gas and electricity) helped offset the impact of food inflation. As a result, Spanish workers experienced a much lower cost of living increase overall.
-
-Real Purchasing Power:
-
-Even though Ireland's nominal wage increases were higher (7.6%), the high inflation in essential goods, particularly energy, means that Irish workers' real purchasing power in 2023 might not have improved significantly. In fact, the high inflation in energy prices can diminish the impact of nominal wage increases, reducing workers’ ability to afford basic goods and services.
-Spanish workers, while facing higher food inflation, benefited from lower inflation in energy costs. Their nominal wage increase (5.8%) was smaller, but because inflation in general (and particularly in energy) was lower, their real purchasing power likely improved more than that of Irish workers.
-
-In summary, while Ireland's nominal wage increases were higher in 2023 than Spain's, the cost of living increases in Ireland, particularly in energy, were much higher. The significant price hikes in gas and electricity in Ireland meant that, despite higher nominal wages, the real purchasing power of Irish workers was affected by these essential cost increases. On the other hand, Spain's deflation in energy prices and lower overall inflation meant that Spanish workers' wages went further, and they were likely able to maintain or even improve their real purchasing power, even with a smaller nominal wage increase.
-
-Thus, Spanish workers in 2023 experienced better purchasing power than Irish workers due to the combination of lower inflation (especially in energy) and a smaller, but more effective, wage increase in relation to the cost of living.
 ### Unemployment
 
 
