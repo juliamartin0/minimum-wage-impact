@@ -32,8 +32,6 @@ As shown in the graph below, created using Tableau, all countries in the dataset
 
 ![min_wage_trend](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min_wage_trends.png)
 
-This graph shows the annual increase in minimum wages in 2012, 205, and 2023 of the year-over-year growth in minimum wage rates for several European countries. This historical trend sets the stage for the analysis in this project, which investigates whether these wage increases have successfully improved the purchasing power parity (PPP) for workers in different countries.
-
 Now that we know the wage trend has been positive and growing, let's explore whether these increases have led to better purchasing power for workers. To do this, we adjust the minimum wage using the PPP index, allowing for a fair comparison between countries.
 
 In the graph below, we show the relationship between each country's PPP index and its minimum wage adjusted for PPP. Some interesting insights emerge. For example, having the highest nominal minimum wage doesn’t necessarily mean having the highest purchasing power. Ireland is a good example of this. Although it has one of the highest nominal minimum wages, it also has the highest PPP index (meaning the cost of living here is also very high). As a result, its minimum wage adjusted for PPP is lower than that of other high-income countries like Belgium or the Netherlands.
