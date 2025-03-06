@@ -38,20 +38,21 @@ One of the key questions in this analysis is whether or not an increase in the m
 - **PPP-Adjusted Minimum Wage:** measure that adjusts the minimum wage based on purchasing power parity (PPP), allowing for fair comparisons between countries by considering differences in the cost of living. 
 - **PPP Index:** a measure of how expensive a country is relative to others. A higher PPP Index means a higher cost of living, reducing the real value of wages. A lower PPP Index means the cost of living is lower, allowing wages to stretch further.
 
-Minimum wages have experienced significant increases throughout the European countries on this dataset between 2010-2024. While some countries have had 
-![min_wage_trend](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min_wage_trends.png)
+Between 2010 and 2025, minimum wages across the European countries studied have seen consistent growth, reflecting efforts to improve workers' earnings and reduce income inequality. While the rates of increase vary by country, the overall trend indicates a positive movement toward higher wages across the continent.
 
-Between 2012 and 2023, wages increased across Europe. However, the real impact on purchasing power varies. The graph below highlights that a high nominal wage doesn’t always equal high purchasing power. For example, Ireland has a high nominal wage but also a high PPP index, making its workers' PPP-adjusted wages lower than countries like Belgium or the Netherlands.
+![min_wage_trend](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min_wages_europe_2010-2025.png)
+
+Although minimum wages have increased across Europe, the real impact on workers' purchasing power differs from country to country. While a higher nominal wage might suggest improved living standards, the cost of living plays a significant role in determining actual purchasing power. The graph below shows the relationship between PPP-adjusted minimum wages and the PPP Index for different European countries in 2023. 
 
 ![ppp_index](https://github.com/juliamartin0/minimum-wage-impact/blob/main/ppp%20index.png)
 
-This creates a gap between minimum wage and the cost of living, leaving Irish workers with less real purchasing power compared to workers in countries like Spain or Poland. Despite these countries having much lower nominal wages, their minimum wage increases have outpaced the growth of their PPP index, giving their workers a stronger minimum wage relative to other countries.
+It shows that countries like Ireland, despite having high nominal wages, face a higher cost of living, which reduces the real value of those wages compared to countries with lower living costs, such as Spain or Poland. Despite these countries having much lower nominal wages, their minimum wage increases have outpaced the growth of their PPP index, giving their workers a stronger minimum wage relative to other countries.
 
 In other words:
 
 - A **higher PPP Index** than adjusted wages means workers' aren't keeping up with inflation or the rising costs, reducing purchasing power. As a result, workers may struggle to afford basic necessities, even if their nominal wages seem high. This scenario shows a disconnection between wage increases and the actual cost of living, causing workers' real purchasing power to be weaker than expected. In our graph, this situation applies to countries like Ireland, Lithuania, or Portugal among others.
 - A **lower PPP Index** than adjusted wages, means that the cost of living in that country is relatively low compared to the increase in nominal minimum wages. This results in workers having greater purchasing power because their wages go further in terms of buying goods and services. In countries with lower living costs, workers may enjoy a higher standard of living even if their nominal wages are not as high as in other countries with higher living costs. This is the case for countries like Germany, the Netherlands, and Spain, among others.
-- When the  **PPP Index closely aligns with adjusted wages**, wage increases match living costs, keeping purchasing power stable and allowing workers to afford a similar amount of goods and services over time. This is the case for countries like Luxembourg and France. 
+- When the **PPP Index closely aligns with adjusted wages**, wage increases match living costs, keeping purchasing power stable and allowing workers to afford a similar amount of goods and services over time. This is the case for countries like Luxembourg and France. 
 
 After analyzing this graph, we can conclude that **an increase in the nominal minimum wage does not always lead to an improvement in workers' purchasing power**. If inflation and cost-of-living rises faster than the wage increase, purchasing power may decline, even though nominal wages are higher. Therefore, inflation plays a significant role in determining whether wage increases actually improve workers' purchasing power. 
 
