@@ -94,8 +94,51 @@ Belgium is one of these exceptions. In 2023 it presented 2,3% of HICP while wage
 
 ![belgium](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20belgium.png)
 
-### Unemployment
+### Minimum Wage Increases and Unemployment Rates
 
+One of the most debated topics in labor economics is whether increasing the minimum wage negatively affects employment levels. Traditional economic theory suggests that raising wages could lead to job losses, as higher labor costs might force businesses to cut jobs. However, when analyzing the data from multiple European countries as shown in the graph below, between 2010 and 2023, we observe a different trend:
+
+- Over the last 14 years, **minimum wages have generally increased across all countries in the dataset**, following a steady upward trajectory.
+- At the same time, unemployment rates have tended to decline, meaning that despite higher wages, labor markets have remained stable or even improved. While unemployment rates have followed a downward trend, some exceptions exist. For example, Greece experienced a rise in unemployment around 2013 due to its financial crisis, and many countries saw temporary spikes in unemployment in 2020-2021 due to the COVID-19 pandemic.
+- While some countries experienced temporary declines or stagnation in minimum wages, the overall pattern remains a steady wage increase alongside falling unemployment.
+- Countries with substantial minimum wage growth, such as Lithuania and Spain, have not seen sustained increases in unemployment.
+
+| ![unemp_spain](https://github.com/juliamartin0/minimum-wage-impact/blob/main/unemployment_spain.png) | ![unemp_lithuania](https://github.com/juliamartin0/minimum-wage-impact/blob/main/unemployment_lithuania.png) |
+|----------------------------|----------------------------|
+| ![unemp_netherlands](https://github.com/juliamartin0/minimum-wage-impact/blob/main/unemployment_netherlands.png) | ![unemp_greece](https://github.com/juliamartin0/minimum-wage-impact/blob/main/unemployment_greece.png) |
+
+
+Despite this general trend, unemployment levels still differ significantly across countries due to structural and economic factors beyond just wage policies. Here are some key insights:
+
+- Spain and Greece have higher unemployment rates despite moderate minimum wages. This is influenced by structural issues such as past economic crises, rigid labor regulations, and labor market composition.
+- Eastern European countries have low minimum wages but varied unemployment rates, partly due to worker migration to higher-paying Western European countries.
+- Luxembourg is an exception, with very high wages and a low unemployment rate (3.6%). Its small size, strong economy, and high-skilled immigrant workforce explain this anomaly.
+
+While inflation plays a role in shaping labor markets, broader economic conditions have a greater impact on how wages affect employment:
+
+**1. Labor Market Flexibility**
+
+- Countries like Germany and Poland have more flexible hiring and firing policies, which help maintain lower unemployment rates.
+- In contrast, Spain faces structurally high unemployment due to temporary contracts and rigid labor laws that make it costly to hire and fire workers.
+
+**2. Productivity and Labor Costs**
+
+- Countries with high productivity, such as Belgium and the Netherlands, can sustain higher wages without negatively impacting employment.
+- If the total labor cost (minimum wage + taxes + social security contributions) is too high, it can discourage hiring, particularly in lower productivity economies.
+
+**3. Unemployment Benefits and Social Protections** (*see scatter plot below*)
+
+- Countries that offer higher unemployment benefits tend to experience higher unemployment rates in the short term. This is because workers may feel comfortable waiting for a better job opportunity or a more lucrative position, knowing they can rely on financial support for a longer period. As a result, there is less urgency to secure employment quickly, leading to a phenomenon known as "unemployment search disincentive". This situation can contribute to a temporary increase in the unemployment rate but can also offer greater economic stability for unemployed individuals. They have the financial security to take their time finding a job that aligns with their qualifications and career goals.
+- On the other hand, countries with lower unemployment benefits create a different set of dynamics. The lack of financial support forces unemployed individuals to actively search for jobs, as they may not have enough savings or assistance to survive without work for an extended period. This pressure encourages quicker re-entry into the workforce, leading to lower unemployment rates in the short term. This is the case of countries like Poland, Czechia, Hungary and Romania. Despite having lower minimum wages, they barely spent % of their GDP on unemployment social benefits and still have some of the lowest unemployment rates in Europe.  
+
+![un_exp](https://github.com/juliamartin0/minimum-wage-impact/blob/main/unemployment_exp.png)
+
+**4. Economic Structure and Industry Composition**
+
+- Spain or Greece rely heavily on tourism and hospitality, which tend to offer precarious, seasonal jobs that are vulnerable to economic downturns.
+- Germany and the Netherlands, on the other hand, have strong industrial and tech sectors, which provide more stable employment opportunities.
+
+In conclusion, the data suggests that higher minimum wages do not necessarily lead to higher unemployment. Instead, each country's economic structure, labor policies, and industry composition play a crucial role in shaping employment trends. This underscores the importance of considering broader economic factors rather than just assuming a direct link between wage growth and job losses. 
 
 ## Conclusions and Insights
 
