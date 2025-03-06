@@ -80,7 +80,7 @@ In general:
 
 While these general patterns hold true in most cases, it is important to acknowledge that other economic factors can influence the relationship between minimum wage increases and purchasing power. Belgium is one of these exceptions. In 2023 it presented 2,3% of HICP while wages only increased by 0,11% and still managed to maintain a good purchasing power. The reason Belgium did not lose purchasing power is mainly due to automatic wage indexation and the sharp decline in energy prices (electricity = -27,2 %, gas = -53,8%), which offset the effects of food (14,3%) and rent (5,9%) inflation. This case highlights that while the relationship between wage increases and inflation is generally strong, exceptions exist when additional economic policies and structural factors come into play.
 
-![belgium](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20belgium.png)
+![belgium](https://github.com/juliamartin0/minimum-wage-impact/blob/main/hicp%20belgium.png)
 
 Ultimately, while higher wages can protect or enhance purchasing power, they need to outpace inflation—especially in essential goods—for workers to truly benefit. It’s also worth noting that factors like tax policies, regional disparities, and economic uncertainty can influence how wage increases affect real purchasing power.
 
