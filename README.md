@@ -34,7 +34,7 @@ Data was cleaned, formatted, and structured to ensure compatibility with Tableau
 
 One of the key questions in this analysis is whether or not an increase in the minimum wage translates into a higher real purchasing power for workers. To evaluate this, we compare:
 
-- **Nominal minimum wage:** the official minimum wage set by each country in euros, standardized for consistency.
+- **Nominal Minimum Wage:** the official minimum wage set by each country in euros, standardized for consistency.
 - **PPP-Adjusted Minimum Wage:** measure that adjusts the minimum wage based on purchasing power parity (PPP), allowing for fair comparisons between countries by considering differences in the cost of living. 
 - **PPP Index:** a measure of how expensive a country is relative to others. A higher PPP Index means a higher cost of living, reducing the real value of wages. A lower PPP Index means the cost of living is lower, allowing wages to stretch further.
 
@@ -68,15 +68,15 @@ In general:
 
     i. **Wage growth is significantly higher than inflation** → This directly increases purchasing power. This is the case of Germany. As we can see in the graphs, the wage increase in 2023 was 18%, while the increase in HICP was 6%. Even though the inflation of essential goods was overall really high, the fact that wages increased so much in 2023 allowed German workers to keep a good purchasing power that year.
   
-  ![germany](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20germany.png)
+  ![germany](https://github.com/juliamartin0/minimum-wage-impact/blob/main/hicp%20germany.png)
 
     ii. **Even if HICP is high, essential goods inflation remains low** → Since basic necessities take up a large portion of workers' expenses, keeping their essential goods inflation lower prevents a major loss in purchasing power. This is the case for countries like Spain.
   
-  ![spain](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20spain.png)
+  ![spain](https://github.com/juliamartin0/minimum-wage-impact/blob/main/hicp%20spain.png)
 
 - If **wages increase slower than HICP**, and **essential goods inflation (food, rent, energy) rises even higher than HICP**, workers' real incomes shrink, reducing their ability to afford goods and services. Even with nominal wage increases, the rising cost of essentials forces workers to spend a larger share of their income on necessities, effectively weakening their purchasing power. In Ireland, wage growth (7.6%) was insufficient to offset rising costs of essentials like food and rent, leading to a decline in real purchasing power.
 
-![ireland](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20ireland.png)
+![ireland](https://github.com/juliamartin0/minimum-wage-impact/blob/main/hicp%20ireland.png)
 
 While these general patterns hold true in most cases, it is important to acknowledge that other economic factors can influence the relationship between minimum wage increases and purchasing power. Belgium is one of these exceptions. In 2023 it presented 2,3% of HICP while wages only increased by 0,11% and still managed to maintain a good purchasing power. The reason Belgium did not lose purchasing power is mainly due to automatic wage indexation and the sharp decline in energy prices (electricity = -27,2 %, gas = -53,8%), which offset the effects of food (14,3%) and rent (5,9%) inflation. This case highlights that while the relationship between wage increases and inflation is generally strong, exceptions exist when additional economic policies and structural factors come into play.
 
