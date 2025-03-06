@@ -72,7 +72,7 @@ In general:
 
     ii. **Even if HICP is high, essential goods inflation remains low** → Since basic necessities take up a large portion of workers' expenses, keeping their essential goods inflation lower prevents a major loss in purchasing power. This is the case for countries like Spain.
   
-![spain](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20spain.png)
+  ![spain](https://github.com/juliamartin0/minimum-wage-impact/blob/main/min%20wage%20-%20hicp%20spain.png)
 
 - If **wages increase slower than HICP**, and **essential goods inflation (food, rent, energy) rises even higher than HICP**, workers' real incomes shrink, reducing their ability to afford goods and services. Even with nominal wage increases, the rising cost of essentials forces workers to spend a larger share of their income on necessities, effectively weakening their purchasing power. In Ireland, wage growth (7.6%) was insufficient to offset rising costs of essentials like food and rent, leading to a decline in real purchasing power.
 
