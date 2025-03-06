@@ -60,7 +60,7 @@ After analyzing this graph, we can conclude that **an increase in the nominal mi
 
 When analyzing the relationship between minimum wage increases and inflation across European countries, we can see how wage changes impact workers' real purchasing power. While rising wages are important, their true effect depends on how they compare to inflation—both overall inflation (HICP) and inflation in essential goods like food, energy, and housing.
 
-The graphs below show how minimum wages and inflation have evolved across countries. By examining these trends, we can assess whether wages are keeping up with inflation and how that affects purchasing power.
+The graphs below show how minimum wages and inflation have evolved across countries. By examining these trends, we can assess whether wages are keeping up with inflation and how that affects purchasing power. To the right, the relationship between HICP (dotted blue line) and inflation of essential goods (blue area for electricity, green for food, orange for rent and yellow for gas).
 
 In general:
 
